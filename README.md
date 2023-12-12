@@ -13,8 +13,7 @@ spec:
   containers:
   - name: Portfolio
     image: kevinkimanzi/profile:v1-pro-max 👨‍💻
-  - name: FunFact
-    image: I love one piece and the cosmere⚡
+    
 ```
 
 📕 **Latest Blog Posts**
