@@ -1,4 +1,4 @@
-### Hi there 👋👋, I'm Kevin Kimanzi Kilonzi
+### Hello, I'm Kevin Kimanzi Kilonzi 👋👋
 
 Enthusiastic and highly motivated DevOps engineer with knowledge in a wide range of  Devops tools and culture such as Git, Jenkins, Ansible, Docker, cloud computing, automation, and CI/CD practices
 
@@ -29,7 +29,7 @@ metadata:
 🔗 **Connect with me**
 ```yaml
 - name: linkedin
-  link: https://www.linkedin.com/in/kevin-kimanzi-3562k163
+  link: [linkedin](https://www.linkedin.com/in/kevin-kimanzi-3562k163)
 - name: medium
   link: workinprogress
 ```
