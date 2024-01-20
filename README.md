@@ -29,7 +29,7 @@ metadata:
 🔗 **Connect with me**
 ```yaml
 - name: linkedin
-  link: [linkedin](https://www.linkedin.com/in/kevin-kimanzi-3562k163)
+  link: https://www.linkedin.com/in/kevin-kimanzi-3562k163
 - name: medium
   link: workinprogress
 ```
