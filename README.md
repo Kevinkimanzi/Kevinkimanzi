@@ -34,9 +34,12 @@ spec:
 📝 **Devops Blog Posts**
 ```yaml
 apiVersion: v1
-kind: WorkInProgress
+kind: blogs
 metadata:
-  name: workinprogress
+  name: dev.com
+  labels:
+    name: workinprogress
+  name: medium
   labels:
     name: workinprogress
 ```
@@ -49,10 +52,13 @@ metadata:
  
 🔗🤝 Let's connect 🤗
 ```yaml
-- name: linkedin
-  link: https://www.linkedin.com/in/kevin-kimanzi-3562k163
-- name: medium
-  link: workinprogress
+apiVersion: v1
+kind: connect
+metadata:
+  name: linkedin
+  labels:
+    link: https://www.linkedin.com/in/kevin-kimanzi-3562k163
+
 ```
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinkimanzi&show_icons=true&theme=algolia)
 
