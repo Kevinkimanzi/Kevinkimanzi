@@ -47,3 +47,7 @@ metadata:
 <div style="text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer">
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=pipeline&color=auto">
+</p>
