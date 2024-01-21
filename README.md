@@ -7,7 +7,7 @@
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blueviolet)
 
 
-Enthusiastic and highly motivated DevOps engineer with knowledge in a wide range of  Devops tools and culture such as Git, Jenkins, Ansible, Docker, cloud computing, automation, and CI/CD practices
+Passionate and driven DevOps engineer, well-versed in an extensive array of DevOps tools and practices, including Git, Jenkins, Ansible, Docker, cloud computing, automation, and CI/CD methodologies.
 
 👤 **My Profile**
 ```yaml
