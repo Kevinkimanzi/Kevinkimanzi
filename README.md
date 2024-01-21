@@ -21,7 +21,7 @@ spec:
     
 ```
 
-📕 **Latest Blog Posts**
+📝 **Devops Blog Posts**
 ```yaml
 apiVersion: v1
 kind: WorkInProgress
@@ -31,10 +31,10 @@ metadata:
     name: workinprogress
 ```
 
-🔗 **Connect with me**
+🌐 **Connect with me**
 
 🌟 Thanks for visiting! If you found any of my projects helpful or interesting, consider giving them a ⭐️.
-📫 Let's connect:
+🔗🤝 Let's connect 🤗
 ```yaml
 - name: linkedin
   link: https://www.linkedin.com/in/kevin-kimanzi-3562k163
