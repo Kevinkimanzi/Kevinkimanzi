@@ -6,13 +6,13 @@ Enthusiastic and highly motivated DevOps engineer with knowledge in a wide range
 apiVersion: v1
 kind: Profile
 metadata:
-  name: Kevin-Kimanzi-Kilonzi 💬
+  name: Kevin-Kimanzi-Kilonzi 
   labels:
     name: myprofile
 spec:
   containers:
-  - name: Portfolio
-    image: kevinkimanzi/profile:v1-pro-max 👨‍💻
+  - name: Profile
+    image: kevinkimanzi/profile:v1-0.0
     
 ```
 
