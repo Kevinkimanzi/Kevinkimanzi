@@ -14,7 +14,7 @@
 ![GITOPS](https://img.shields.io/badge/GITOPS-blueviolet)
 
 
-Passionate and driven DevOps engineer, well-versed in an extensive array of DevOps tools and practices, including Git, Jenkins, Ansible, Docker, cloud computing, automation, and CI/CD methodologies.
+Passionate and driven DevOps engineer, well-versed in an extensive array of DevOps tools and practices, including Git, Jenkins, Ansible, Docker, cloud computing, automation,Kubernetes ☸ and CI/CD methodologies.
 
 👤 **My Profile**
 ```yaml
@@ -45,6 +45,8 @@ metadata:
 
 🌟 Thanks for visiting! If you found any of my projects helpful or interesting, consider giving them a ⭐️.
 
+        and
+ 
 🔗🤝 Let's connect 🤗
 ```yaml
 - name: linkedin
