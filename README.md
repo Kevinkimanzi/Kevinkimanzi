@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer">
+</div>
+
 ### Hello, I'm Kevin Kimanzi Kilonzi 👋👋
 
 Enthusiastic and highly motivated DevOps engineer with knowledge in a wide range of  Devops tools and culture such as Git, Jenkins, Ansible, Docker, cloud computing, automation, and CI/CD practices
@@ -38,12 +42,6 @@ metadata:
   link: workinprogress
 ```
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinkimanzi&show_icons=true&theme=algolia)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer" style="display: block; margin: 0 auto;">
 
 <div style="text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer">
