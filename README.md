@@ -4,6 +4,9 @@
 
 ### Hello, I'm Kevin Kimanzi Kilonzi 👋👋
 
+![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blueviolet)
+
+
 Enthusiastic and highly motivated DevOps engineer with knowledge in a wide range of  Devops tools and culture such as Git, Jenkins, Ansible, Docker, cloud computing, automation, and CI/CD practices
 
 👤 **My Profile**
@@ -48,8 +51,4 @@ metadata:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer">
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="DevOps Engineer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer" alt="footer"/>
-</p>
 
