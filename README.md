@@ -49,5 +49,7 @@ metadata:
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pipeline&color=auto">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="DevOps Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer" alt="footer"/>
 </p>
+
