@@ -34,6 +34,7 @@ metadata:
 🌐 **Connect with me**
 
 🌟 Thanks for visiting! If you found any of my projects helpful or interesting, consider giving them a ⭐️.
+
 🔗🤝 Let's connect 🤗
 ```yaml
 - name: linkedin
