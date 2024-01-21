@@ -5,6 +5,9 @@
 ### Hello, I'm Kevin Kimanzi Kilonzi 👋👋
 
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blueviolet)
+![AWS](https://img.shields.io/badge/AWS-blueviolet)
+![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blueviolet)
+![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blueviolet)
 
 
 Passionate and driven DevOps engineer, well-versed in an extensive array of DevOps tools and practices, including Git, Jenkins, Ansible, Docker, cloud computing, automation, and CI/CD methodologies.
