@@ -42,3 +42,9 @@ metadata:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer" style="display: block; margin: 0 auto;">
+
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer">
+</div>
