@@ -28,6 +28,7 @@ metadata:
 ```
 
 🔗 **Connect with me**
+
 🌟 Thanks for visiting! If you found any of my projects helpful or interesting, consider giving them a ⭐️.
 📫 Let's connect:
 ```yaml
@@ -36,7 +37,7 @@ metadata:
 - name: medium
   link: workinprogress
 ```
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinkimanzi&show_icons=true&theme=algolia)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=738678&height=80&section=footer"/>
