@@ -12,6 +12,7 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-blueviolet)
 ![TERRAFORM](https://img.shields.io/badge/TERRAFORM-blueviolet)
 ![GITOPS](https://img.shields.io/badge/GITOPS-blueviolet)
+![HELM HELMCHART](https://img.shields.io/badge/HELM-HELMCHART-blueviolet)
 
 
 Passionate and driven DevOps engineer, well-versed in an extensive array of DevOps tools and practices, including Git, Jenkins, Ansible, Docker, cloud computing, automation,Kubernetes ☸ and CI/CD methodologies.
