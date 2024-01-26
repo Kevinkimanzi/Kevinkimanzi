@@ -12,6 +12,7 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-blueviolet)
 ![TERRAFORM](https://img.shields.io/badge/TERRAFORM-blueviolet)
 ![GITOPS](https://img.shields.io/badge/GITOPS-blueviolet)
+![ARGOCD](https://img.shields.io/badge/ARGO-CD-blueviolet)
 ![HELM HELMCHART](https://img.shields.io/badge/HELM-HELMCHART-blueviolet)
 
 
