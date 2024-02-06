@@ -16,6 +16,7 @@
 ![HELM HELMCHART](https://img.shields.io/badge/HELM-HELMCHART-blueviolet)
 ![PROMETHEUS](https://img.shields.io/badge/PROMETHEUS-blueviolet)
 ![GRAFANA](https://img.shields.io/badge/GRAFANA-blueviolet)
+![ANSIBLE](https://img.shields.io/badge/ANSIBLE-blueviolet)
 
 
 Passionate and driven DevOps engineer, well-versed in an extensive array of DevOps tools and practices, including Git, Jenkins, Ansible, Docker, cloud computing, automation,Kubernetes ☸ and CI/CD methodologies.
