@@ -43,10 +43,10 @@ kind: blogs
 metadata:
   name: dev.com
   labels:
-    name: workinprogress
+    name: [workinprogress](https://medium.com/@kevinkimanzi4)
   name: medium
   labels:
-    name: workinprogress
+    name: [workinprogress](https://medium.com/@kevinkimanzi4)
 ```
 
 🌐 **Connect with me**
