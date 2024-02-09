@@ -60,7 +60,7 @@ metadata:
 apiVersion: v1
 kind: connect
 metadata:
-  name: linkedin
+  name: linkedin.
   labels:
     link: https://www.linkedin.com/in/kevin-kimanzi-3562k163
 
